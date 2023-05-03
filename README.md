@@ -11,6 +11,7 @@ This repository is for DO/CI, a kind of blog-thing that I've been wanting to mak
 - [X] Generate blog posts from markdown files
 - [X] Find a way to sustainably deploy this
 - [ ] Choose a fitting Jekyll theme
+- [ ] Set up HTTPS so the site doesn't look so sketchy
 
 Following this:
 - https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site?platform=linux
